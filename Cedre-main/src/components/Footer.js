@@ -54,13 +54,13 @@ export default function Footer() {
               Address: 37, Beresteyskyi Prospect, Kyiv
             </a>
             <div className="sites">
-              <a href="https://www.instagram.com/alyona_shunevych/">
+              <a href="https://www.instagram.com/burliy_andriy_?igsh=ZmRrMDl3OGVsejNs/">
                 <img src={inst} style={{ height: "1.5vw" }} alt="inst" />
               </a>
-              <a href="https://t.me/alona_shunevych">
+              <a href="https://t.me/andriyburliy">
                 <img src={tg} style={{ height: "1.5vw" }} alt="tg" />
               </a>
-              <a href="https://www.behance.net/alyona_shunevych">
+              <a href="">
                 <img src={behance} style={{ height: "1.5vw" }} alt="behance" />
               </a>
             </div>
